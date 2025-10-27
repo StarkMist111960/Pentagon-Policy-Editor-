@@ -121,7 +121,7 @@ echo '{
   "JavaScriptBlockedForUrls": [],
   "ReportDeviceBootMode": false,
   "DeviceBlockDevmode": false
-}' > > /etc/opt/chrome/policies/managed/newpolicy.json
+}' > /etc/opt/chrome/policies/managed/newpolicy.json
 
 echo "done"
 echo "successfully applied, you may need to rload your policies or press ctrl shift q+q and then repeatedly reload policies before this works."
