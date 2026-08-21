@@ -120,7 +120,8 @@ echo '{
   "EditBookmarksEnabled": true,
   "JavaScriptBlockedForUrls": [],
   "ReportDeviceBootMode": false,
-  "DeviceBlockDevmode": false
+  "DeviceBlockDevmode": false,
+  "SystemFeaturesDisableList": []
 }' > /etc/opt/chrome/policies/managed/newpolicy.json
 
 echo "done"
