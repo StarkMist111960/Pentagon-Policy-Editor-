@@ -5,10 +5,10 @@ if [ $(id -u) -ne 0 ]; then
     exit
 fi
 
-echo "Welcome to Pentagon Policy Editor"
-echo "by StarkMist111960"
-echo "Policies from Star-destroyer12"
-echo "Based on Rainestorme and associate's Pollen Policy Editor"
+echo "Welcome to Pentagon Policy Editor
+      by StarkMist111960
+      Policies from Star-destroyer12
+      Based on Rainestorme and associate's Pollen Policy Editor"
 
 sleep 1
 
